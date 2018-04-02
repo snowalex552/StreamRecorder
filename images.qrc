@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/glossy_button_blank_green_circle.svg</file>
+        <file>resources/glossy_button_blank_red_circle.svg</file>
+    </qresource>
+</RCC>
